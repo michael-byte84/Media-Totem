@@ -1,0 +1,12 @@
+# Ambiente virtuale Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Esclude i video e le foto caricati nei test locali sul Mac
+static/uploads/*
+!static/uploads/.gitkeep
+
+# File nascosti del sistema operativo Mac
+.DS_Store
