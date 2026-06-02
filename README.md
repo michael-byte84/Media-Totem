@@ -1,6 +1,6 @@
-# Sosty Media 📺
+# Media Totem 📺
 
-**Sosty Media** è un hub multimediale leggero, autonomo e reattivo progettato per la gestione dei monitor di corridoio e dei totem informativi digitali all'interno degli istituti scolastici. 
+**Media Totem** è un hub multimediale leggero, autonomo e reattivo progettato per la gestione dei monitor di corridoio e dei totem informativi digitali all'interno degli istituti scolastici. 
 
 Il sistema permette di gestire facilmente le comunicazioni quotidiane e il palinsesto video direttamente da un pannello amministrativo protetto, ispirato alle linee guida di design per la PA (*Designers Italia*).
 
